@@ -9,7 +9,7 @@ Universidad de Antioquia
 
 | Nombre | Programa | Rol |
 |------|------|------|
-| Dana Isabela Moreno Mena | Ingeniería Industrial | Desarrollo |
+| Dana Isabela Moreno Mena | Ingeniería Industrial | Desarrollador |
 
 ---
 
