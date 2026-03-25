@@ -1,4 +1,4 @@
-# LendWise – Sistema Inteligente de Gestión de Préstamos
+# MJ LEDGER – Sistema Inteligente de Gestión de Préstamos
 
 Proyecto Integrador – Algoritmia y Programación  
 Universidad de Antioquia
@@ -8,8 +8,9 @@ Universidad de Antioquia
 # 1. Integrantes
 
 | Nombre | Programa | Rol |
-|------|------|------|
+|--------|----------|-----|
 | Dana Isabela Moreno Mena | Ingeniería Industrial | Desarrollador |
+| Maria Valentina Ramirez Montoya | Ingeniería Industrial | Desarrollador |
 
 ---
 
